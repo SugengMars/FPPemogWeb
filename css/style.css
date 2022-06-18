@@ -1,0 +1,10 @@
+.kotak {
+   text-align: center;
+}
+.kotak img{
+    width: 300px;
+    margin-bottom: 1rem;
+}
+.kotak a{
+    font-size: 20px;
+}
